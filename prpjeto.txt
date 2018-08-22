@@ -2,3 +2,4 @@ Teste de git para desenvolvimento
 Versão:
 
 1.0.0 - Int do Projeto
+1.0.1 - Teste 01
